@@ -1,0 +1,6 @@
+# [String Works in C](https://youtu.be/6UpVCpmcbns)
+
+- Character --> 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', ...
+- String --> "Hello World", "I am a student", ...
+
+- String means a sequence of characters.
